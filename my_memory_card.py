@@ -2,6 +2,8 @@
 #подключение библиотек
 #подключение библиотек
 #aaaaaaaaaaaaaa
+#333
+#ssss
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget,     QPushButton, QLabel, QVBoxLayout, QHBoxLayout, QRadioButton, QGroupBox
 from random import randint, shuffle
