@@ -1,6 +1,7 @@
 #создай приложение для запоминания информации
 #подключение библиотек
 #подключение библиотек
+#aaaaaaaaaaaaaa
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget,     QPushButton, QLabel, QVBoxLayout, QHBoxLayout, QRadioButton, QGroupBox
 from random import randint, shuffle
